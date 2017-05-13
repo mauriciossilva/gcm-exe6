@@ -8,3 +8,4 @@ Ferramentas de Controle de Verão
 #BITBUCKET
 #SVN
 #MERCURIAL
+#clear case
